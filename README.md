@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Update TFLite Docs images (#8605)
