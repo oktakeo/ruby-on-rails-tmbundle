@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Clean up unused imgsz (#7771)
