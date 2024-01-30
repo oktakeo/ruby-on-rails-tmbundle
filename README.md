@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
