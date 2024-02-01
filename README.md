@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Updated SQL Query Plot Code (#8120)
