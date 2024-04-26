@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Elaborate Train and Predict mode docs arguments (#8137)
