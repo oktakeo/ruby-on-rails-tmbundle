@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Add quantization support to TensorFlow.js converter (#7008)
