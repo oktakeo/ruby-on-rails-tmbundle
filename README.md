@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Link checks SSL insecure robustness (#7853)
