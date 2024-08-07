@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
