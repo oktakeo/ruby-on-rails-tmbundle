@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
