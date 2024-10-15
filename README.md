@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Fix PNNX ubuntu -> linux bug (#7050)
