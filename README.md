@@ -1,1 +1,1 @@
-Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
